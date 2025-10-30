@@ -7,7 +7,7 @@
     "discountPrice": 6,
     "rating": 4.8,
     "stock": true,
-    "image": "Food/foodimg/pizza.webp",
+    "image": "https://github.com/Gulfamgfool/SellerData/blob/619123abe9460277063da8c8b32d72735f142fe1/pizza.webp?raw=true",
     "description": "Delicious Pizza",
     "tags": ["tasty", "delicious", "pizza"]
   },
@@ -19,7 +19,7 @@
     "discountPrice": 5,
     "rating": 4.7,
     "stock": true,
-    "image": "img/burger.jpg",
+    "image": "https://github.com/Gulfamgfool/SellerData/blob/619123abe9460277063da8c8b32d72735f142fe1/burger.jpg?raw=true",
     "description": "burger tasty",
     "tags": ["burfer"]
   }
