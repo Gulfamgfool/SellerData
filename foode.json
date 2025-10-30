@@ -1,0 +1,26 @@
+[
+  {
+    "id": "f1",
+    "name": "pizza",
+    "brand": "none",
+    "price": 69,
+    "discountPrice": 6,
+    "rating": 4.8,
+    "stock": true,
+    "image": "Food/foodimg/pizza.webp",
+    "description": "Delicious Pizza",
+    "tags": ["tasty", "delicious", "pizza"]
+  },
+  {
+    "id": "f2",
+    "name": "burger",
+    "brand": "none",
+    "price": 36,
+    "discountPrice": 5,
+    "rating": 4.7,
+    "stock": true,
+    "image": "img/burger.jpg",
+    "description": "burger tasty",
+    "tags": ["burfer"]
+  }
+]
