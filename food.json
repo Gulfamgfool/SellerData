@@ -1,34 +1,32 @@
-{
-  "products":{
-    "product1": {
-      "id": 1,
-      "name": "Pizza",
-      "price": 100,
-      "currency": "₹",
-      "unit": "",
-      "image": "https://github.com/Gulfamgfool/SellerData/blob/main/pizza.webp?raw=true",
-       "image": "https://github.com/Gulfamgfool/SellerData/blob/main/pizza.webp?raw=true",
-      "category": "Foods",
-      "searchTags": ["pizza", "pizzas", "food", "foods"],
-      "description": "tasty Pizza",
-      "inStock": true,
-      "rating": 4.5
-    },
-    "product2": {
-      "id": 2,
-      "name": "Burger", 
-      "price": 80,
-      "currency": "₹",
-      "unit": "",
-      "image": "https://github.com/Gulfamgfool/SellerData/blob/main/pizza.webp?raw=true",
-       "image": "https://github.com/Gulfamgfool/SellerData/blob/main/pizza.webp?raw=true",
-      "category": "food",
-      "searchTags": ["burgers", "burger", "food", "foods"],
-      "description": "delicious burger",
-      "inStock": true,
-      "rating": 4.2
-    }
+[
+  {
+    "id": 1,
+    "name": "Pizza",
+    "price": 100,
+    "currency": "₹",
+    "unit": "",
+    "images": [
+      "https://github.com/Gulfamgfool/SellerData/blob/main/pizza.webp?raw=true"
+    ],
+    "category": "Foods",
+    "searchTags": ["pizza", "pizzas", "food", "foods"],
+    "description": "tasty Pizza",
+    "inStock": true,
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Burger", 
+    "price": 80,
+    "currency": "₹",
+    "unit": "",
+    "images": [
+      "https://github.com/Gulfamgfool/SellerData/blob/main/pizza.webp?raw=true"
+    ],
+    "category": "food",
+    "searchTags": ["burgers", "burger", "food", "foods"],
+    "description": "delicious burger",
+    "inStock": true,
+    "rating": 4.2
   }
-
-}
-
+]
