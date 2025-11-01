@@ -5,9 +5,7 @@
     "price": 100,
     "currency": "₹",
     "unit": "",
-    "images": [
-      "https://www.google.com/imgres?q=Pizza%20img&imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-photo%2Fpizza-pizza-filled-with-tomatoes-salami-olives_140725-1200.jpg&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Ffood-pizza&docid=Cw1wFxD7NixczM&tbnid=gR2eL8zYfJiucM&vet=12ahUKEwjVmKL77NCQAxUGTmwGHR4pOQkQM3oECBcQAA..i&w=626&h=592&hcb=2&ved=2ahUKEwjVmKL77NCQAxUGTmwGHR4pOQkQM3oECBcQAA"
-    ],
+    "images": ["https://github.com/Gulfamgfool/SellerData/blob/619123abe9460277063da8c8b32d72735f142fe1/pizza.webp?raw=true"],
     "category": "Foods",
     "searchTags": ["pizza", "pizzas", "food", "foods"],
     "description": "tasty Pizza",
@@ -16,18 +14,42 @@
   },
   {
     "id": 2,
-    "name": "Burger", 
+    "name": "Burger",
     "price": 80,
     "currency": "₹",
     "unit": "",
-    "images": [
-      "https://github.com/Gulfamgfool/SellerData/blob/main/pizza.webp?raw=true"
-    ],
+    "images": ["https://github.com/Gulfamgfool/SellerData/blob/619123abe9460277063da8c8b32d72735f142fe1/pizza.webp?raw=true"],
     "category": "food",
     "searchTags": ["burgers", "burger", "food", "foods"],
     "description": "delicious burger",
     "inStock": true,
     "rating": 4.2
+  },
+  {
+    "id": 3,
+    "name": "French Fries",
+    "price": 60,
+    "currency": "₹",
+    "unit": "",
+    "images": ["https://github.com/Gulfamgfool/SellerData/blob/619123abe9460277063da8c8b32d72735f142fe1/fries.webp?raw=true"],
+    "category": "food",
+    "searchTags": ["fries", "french fries", "snacks"],
+    "description": "crispy french fries",
+    "inStock": true,
+    "rating": 4.0
+  },
+  {
+    "id": 4,
+    "name": "Coke",
+    "price": 40,
+    "currency": "₹",
+    "unit": "bottle",
+    "images": ["https://github.com/Gulfamgfool/SellerData/blob/619123abe9460277063da8c8b32d72735f142fe1/coke.webp?raw=true"],
+    "category": "drinks",
+    "searchTags": ["coke", "cold drink", "beverage"],
+    "description": "cold drink",
+    "inStock": true,
+    "rating": 4.3
   }
 ]
 
