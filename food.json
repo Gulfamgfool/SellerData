@@ -7,6 +7,7 @@
       "currency": "₹",
       "unit": "",
       "image": "https://github.com/Gulfamgfool/SellerData/blob/main/pizza.webp?raw=true",
+       "image": "https://github.com/Gulfamgfool/SellerData/blob/main/pizza.webp?raw=true",
       "category": "Foods",
       "searchTags": ["pizza", "pizzas", "food", "foods"],
       "description": "tasty Pizza",
@@ -20,6 +21,7 @@
       "currency": "₹",
       "unit": "",
       "image": "https://github.com/Gulfamgfool/SellerData/blob/main/pizza.webp?raw=true",
+       "image": "https://github.com/Gulfamgfool/SellerData/blob/main/pizza.webp?raw=true",
       "category": "food",
       "searchTags": ["burgers", "burger", "food", "foods"],
       "description": "delicious burger",
@@ -29,3 +31,4 @@
   }
 
 }
+
