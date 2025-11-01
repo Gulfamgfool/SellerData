@@ -1,0 +1,30 @@
+{
+  "products":{
+    "product1": {
+      "id": 1,
+      "name": "Pizza",
+      "price": 100,
+      "currency": "₹",
+      "unit": "",
+      "image": "https://raw.githubusercontent.com/yourusername/your-repo/main/images/apple.jpg",
+      "category": "Foods",
+      "searchTags": ["pizza", "pizzas", "food", "foods"],
+      "description": "tasty Pizza",
+      "inStock": true,
+      "rating": 4.5
+    },
+    "product2": {
+      "id": 2,
+      "name": "Burger", 
+      "price": 80,
+      "currency": "₹",
+      "unit": "",
+      "image": "https://raw.githubusercontent.com/yourusername/your-repo/main/images/rice.jpg",
+      "category": "food",
+      "searchTags": ["burgers", "burger", "food", "foods"],
+      "description": "delicious burger",
+      "inStock": true,
+      "rating": 4.2
+    }
+  }
+}
