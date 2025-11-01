@@ -31,7 +31,7 @@
     "price": 60,
     "currency": "₹",
     "unit": "",
-    "images": ["https://github.com/Gulfamgfool/SellerData/blob/619123abe9460277063da8c8b32d72735f142fe1/fries.webp?raw=true"],
+    "images": ["https://raw.githubusercontent.com/Gulfamgfool/SellerData/619123abe9460277063da8c8b32d72735f142fe1/pizza.webp"],
     "category": "food",
     "searchTags": ["fries", "french fries", "snacks"],
     "description": "crispy french fries",
@@ -44,7 +44,7 @@
     "price": 40,
     "currency": "₹",
     "unit": "bottle",
-    "images": ["https://github.com/Gulfamgfool/SellerData/blob/619123abe9460277063da8c8b32d72735f142fe1/coke.webp?raw=true"],
+    "images": ["https://raw.githubusercontent.com/Gulfamgfool/SellerData/619123abe9460277063da8c8b32d72735f142fe1/pizza.webp"],
     "category": "drinks",
     "searchTags": ["coke", "cold drink", "beverage"],
     "description": "cold drink",
@@ -52,4 +52,5 @@
     "rating": 4.3
   }
 ]
+
 
